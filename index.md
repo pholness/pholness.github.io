@@ -26,6 +26,10 @@ A simple demo that draws lines bouncing around the screen.
 * Esc to clear the screen
 * C to change the movement of the end points.
 
+It looks like this.
+
+![Lines1 Image](/assets/images/Lines1.png)
+
 #### Lines2
 
 An improved hark back to the screen savers of old. 
@@ -35,8 +39,12 @@ A simple demo that draws lines bouncing around the screen. This time it keeps tr
 * Q to Quit
 * Esc to clear the screen
 * C to change the movement of the end points
-* Up Arrow to speed up
-* Down Arrow to slow down.
+* Up Arrow to slow down
+* Down Arrow to speed up.
+
+It looks like this.
+
+![Lines2 Image](/assets/images/Lines2.png)
 
 ### Python
 

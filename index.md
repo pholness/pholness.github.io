@@ -1,3 +1,9 @@
+---
+title: Index
+has_children: false
+nav_order: 1
+---
+
 # GitHub Pages site for Peter Holness
 ## Introduction
 My intention with this site is to keep notes on some of the silly little projects I am playing around with at any one time. The hope being that when I come back to a toy project I was working on in the past, I will have some clue about what I was doing when I parked it.

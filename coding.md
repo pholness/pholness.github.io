@@ -42,7 +42,7 @@ It looks like this.
 
 ![Lines1 Image](/assets/images/Lines1.png)
 
-## Lines2
+### Lines2
 
 An improved hark back to the screen savers of old. 
 

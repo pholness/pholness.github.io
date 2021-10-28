@@ -6,64 +6,9 @@ nav_order: 1
 
 # GitHub Pages site for Peter Holness
 ## Introduction
-My intention with this site is to keep notes on some of the silly little projects I am playing around with at any one time. The hope being that when I come back to a toy project I was working on in the past, I will have some clue about what I was doing when I parked it.
-## Coding
-Although not exclusively about coding, as I'm keeping some of my source code in github, it makes sense to keep the notes on it here too...
-### C++
-The language I spent most of my software dev career using. I've come back to C++ after several years away, and have been playing with SDL2 and C++ on Linux
-#### The Barnsley Fern Generator.
-This project is a simple implementation of the [Barnsley Fern fractal](https://en.wikipedia.org/wiki/Barnsley_fern)
+Hi. I've set this site up primarily to check out what can be achieved with GitHub Pages. 
 
-The code creates an SDL2 window and renderer, then uses a helper object to calculate points on the fern, drawing them with the `SDL_RenderDrawPoint` function. The code updates the rendered dots 60 times per second. It takes a couple of seconds to generate a few hundred thousand points.
+So it's not a complete waste of space, I'm intending to use the space to keep track of any little programming projects I'm playing with, and as a dumping ground for useful SQL and database stuff I use day to day.
 
-The binary accepts a numeric argument that caps the number of points to calculate. If no parameter is given it defaults to 100,000.
+Links to pages are in the side bar.
 
-The output looks like this.
-
-![Fern Image](/assets/images/fern.png)
-
-#### Lines1
-
-A hark back to the screen savers of old. 
-
-A simple demo that draws lines bouncing around the screen.
-
-* Q to Quit
-* Esc to clear the screen
-* C to change the movement of the end points.
-
-It looks like this.
-
-![Lines1 Image](/assets/images/Lines1.png)
-
-#### Lines2
-
-An improved hark back to the screen savers of old. 
-
-A simple demo that draws lines bouncing around the screen. This time it keeps track of the last 100 lines, and deletes the oldest line for each frame.
-
-* Q to Quit
-* Esc to clear the screen
-* C to change the movement of the end points
-* Up Arrow to slow down
-* Down Arrow to speed up.
-
-It looks like this.
-
-![Lines2 Image](/assets/images/Lines2.png)
-
-### Python
-
-Not much to see here yet.
-
-### Raspberry Pi
-
-Likewise, but something is coming...
-
-## Databases
-
-A place to keep information about databases, primarily Oracle ones.
-
-### Useful SQL
-
-To be populated.

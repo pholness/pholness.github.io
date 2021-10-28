@@ -3,6 +3,7 @@ title: Coding
 has_children: false
 nav_order: 2
 ---
+# Coding
 
 <details open markdown="block">
   <summary>
@@ -13,7 +14,6 @@ nav_order: 2
 {:toc}
 </details>
 
-# Coding
 Although not exclusively about coding, as I'm keeping some of my source code in github, it makes sense to keep the notes on it here too...
 ## C++
 The language I spent most of my software dev career using. I've come back to C++ after several years away, and have been playing with SDL2 and C++ on Linux

@@ -69,6 +69,12 @@ The application lets you click to centre and zoom the image. The max number of i
 * Z to zoom in without changing the centre point
 * Left mouse click - re-centre on click point and zoom in.
 
+Some ideas for what else to add.
+
+1. Export the image as a PNG file.
+1. Two phase render to optimise range of colours used on each render.
+1. As zoom level increases, increase max iterations to improve detail. 
+
 It looks like this.
 
 ![Mandelbrot Image](/assets/images/Mandelbrot.png)

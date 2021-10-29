@@ -58,6 +58,22 @@ It looks like this.
 
 ![Lines2 Image](/assets/images/Lines2.png)
 
+### Mandelbrot Set Renderer
+
+Something I've often seen, but never tried writing.
+
+The application lets you click to centre and zoom the image. The max number of iterations can be passed as a parameter to the program (more iterations takes longer to render, but lets you zoom in to far greater depth)
+
+* Q to Quit
+* R to reset to the lowest zoom level
+* Z to zoom in without changing the centre point
+* Left mouse click - re-centre on click point and zoom in.
+
+It looks like this.
+
+![Mandelbrot Image](/assets/images/Mandelbrot.png)
+
+
 ## Python
 
 Not much to see here yet.

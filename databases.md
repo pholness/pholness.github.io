@@ -1,13 +1,13 @@
 ---
 title: Databases
-has_children: false
+has_children: true
 nav_order: 3
 ---
 
 # Databases
 
-A place to keep information about databases, primarily Oracle ones.
+A place to keep information about databases, primarily Oracle ones. Useful links and resources and so on.
 
-## Useful SQL
+[Oracle Support](https://support.oracle.com/portal/)
 
-To be populated.
+

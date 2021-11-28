@@ -2,9 +2,18 @@
 layout: default
 title: ASM Related
 parent: Databases
-nav_order: 2
+nav_order: 3
 ---
 # A selection of ASM related queries
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 ## ASM Dirs
 

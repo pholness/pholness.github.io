@@ -21,7 +21,7 @@ Start with a base install of Linux Mint Debian Edition. I chose LMDE 6 Faye. Aft
 
 ## Installing PostgreSQL
 
-Use the Software Manager tool in LMDE to install the Postgresql package. This sets everything up including the require scripts to stop and start the database cluster. 
+Use the Software Manager tool in LMDE to install the Postgresql package. This sets everything up including the required scripts to stop and start the database cluster. 
 
 ## Install pgAdmin4 
 

@@ -17,6 +17,9 @@ nav_order: 2
 Although not exclusively about coding, as I'm keeping some of my source code in github, it makes sense to keep the notes on it here too...
 ## C++
 The language I spent most of my software dev career using. I've come back to C++ after several years away, and have been playing with SDL2 and C++ on Linux
+
+The code is in the (private) repo - [CPlusPlus stuff](https://github.com/pholness/CPlusPlus-stuff)
+
 ### The Barnsley Fern Generator.
 This project is a simple implementation of the [Barnsley Fern fractal](https://en.wikipedia.org/wiki/Barnsley_fern)
 
@@ -82,9 +85,12 @@ It looks like this.
 
 ## Python
 
-Not much to see here yet.
+I have been working on some simple games using pygame.
+
+The code is in the (private) repo - [Python stuff](https://github.com/pholness/Python-stuff)
 
 ## Raspberry Pi
 
-Likewise, but something is coming...
+So far, just some simple light effects using neopixels and a Raspberry PiPico.
 
+The code is in the (private) repo - [PI Pico Stuff](https://github.com/pholness/PI-Pico-python-stuff)

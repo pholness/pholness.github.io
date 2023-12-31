@@ -68,7 +68,7 @@ where ao.GROUP_NUMBER = dg.GROUP_NUMBER;
 New disks will show up with a header_status of "CANDIDATE"
 
 ```
-SELECT * from v$asm_disks;
+SELECT * from v$asm_disk;
 ```
 
 ## Adding Disks to a Diskgroup
